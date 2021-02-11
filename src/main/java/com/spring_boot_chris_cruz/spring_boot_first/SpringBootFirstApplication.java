@@ -1,0 +1,13 @@
+package com.spring_boot_chris_cruz.spring_boot_first;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootFirstApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringBootFirstApplication.class, args);
+	}
+
+}
